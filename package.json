@@ -1,0 +1,23 @@
+{
+  "name": "skysleamwork3",
+  "version": "1.0.0",
+  "description": "TEA3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/v6954662fdsf/work3.git"
+  },
+  "dependencies": {
+    "skysleam-teaprotocol": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v6954662fdsf/work3/issues"
+  },
+  "homepage": "https://github.com/v6954662fdsf/work3#readme"
+}
